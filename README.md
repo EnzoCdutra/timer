@@ -16,9 +16,15 @@ Hello, welcome to my timer project, the languages ​​used were: HTML, CSS AND
 
 The timer developed contains 3 functions: start/pause/reset and mark the time;
 
-## 🔨 Objetivos do projeto
-Este projeto tem como objetivo ser um site para fins de estudos e experiencias
+## 🔨 Objetivos do projeto /  Project objectives
 
-## Desenvolvido por:
+Este projeto tem como objetivo ser um site para fins de estudos e experiencias
+//in english
+This project aims to be a website for study and experiment purposes 
+
+## Desenvolvido por: / Developed by:
 Enzo
-Linkedin: https://www.linkedin.com/in/enzocd/
+Meu Linkedin: https://www.linkedin.com/in/enzocd/
+//in english
+Enzo
+My Linkedin:
