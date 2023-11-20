@@ -1,5 +1,5 @@
 
-# Timer
+# Timer ⏱
 
 ![relogio](https://github.com/EnzoCdutra/timer/assets/128257870/241f68ce-8fe4-4d19-adb5-3bfff6dbbaa0)
 
