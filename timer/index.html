@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <meta name="keyword" content="HTML,CSS AND JAVASCRIPT">
+    <meta name="author" content="Enzo">
+    <meta name="description" content="Cronometro">
+    <link href="css/style.css" rel="stylesheet" type="text/css">
+    <script src="js/script.js" defer></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>Crônometro</title>
+</head>
+<body>
+    <div id="stopwatch">
+        <h2 id="timer">
+            00:00:00:000
+        </h2>
+        <div id="actions">
+            <button id="reset">
+                <i class="fa fa-refresh" aria-hidden="true"></i>
+            </button>
+            <button id="power" action="start">
+                <i class="fa fa-play-circle" aria-hidden="true"></i>
+            </button>
+            <button id="mark">
+                <i class="fa fa-flag-checkered" aria-hidden="true"></i>
+            </button>
+            </div><!--actions-->
+            <div id="marks-list"></div><!--mark-list-->
+        </div><!--stopwatch-->
+</body>
+</html>
